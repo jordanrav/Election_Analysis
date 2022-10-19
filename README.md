@@ -1,5 +1,5 @@
 
-# Stocks Analysis
+# Election Analysis
 ## Overview
 
 The purpose of this election audit analysis is to count all the votes and then determine the percentage of how many votes each county had, percentage of how many votes a certain candidate had and finally revealing which candidate won with the most votes
